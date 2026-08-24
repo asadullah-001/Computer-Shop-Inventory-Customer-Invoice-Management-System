@@ -1,0 +1,5 @@
+6541653,Mouse,500.0,Hardware
+P101,Mouse,500.0,Hardware
+P102,Keyboard,1000.0,Hardware
+001,Asus Mouse,500.0,Hardware
+002,HP Laptop,80000.0,Hardware
